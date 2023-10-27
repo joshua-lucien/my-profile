@@ -1,0 +1,113 @@
+/*Colors and fonts*/
+body {
+	background-color: white;
+	color: rgb(50, 50, 50, 1.0);
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    letter-spacing: 2;
+    font-weight: 400;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	border-left: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+h1,h2,h3 {
+font-family: 'Poppins', sans-serif;
+}
+
+h1{
+
+	color: black;
+	font-size: 32px;
+	font-weight: 900;
+}
+h2{
+   color:black;
+   font-size: 20px;
+   font-weight: 700;
+
+}
+a {
+	text-decoration: none;
+	color: #f78800;
+
+}
+a:hover {
+	color: #e8ff00;
+}
+div {
+	background: rgb(210, 210, 210, 1.0);
+	padding: 30px;
+	border-radius: 10px;
+	margin: 4px 4px auto;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+#titre {
+	margin: 5px auto;
+	border-top: 2px;
+	border-bottom: 20px;
+	border-radius: 5px;
+	background: rgb(200, 200, 200, 1.0);
+	box-shadow: 4px 4px 5px rgba(1, 1, 1, 1.0);
+	width: 320px;
+	padding: 40px;
+}
+#card-grey {
+    margin: 8px auto;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+#card-blue {
+	margin: 5px auto;
+	background-color: rgba(173,216,230,2.0);
+	border-radius: 30px;
+
+}
+
+
+.Photo {
+	border-radius: 50%;
+	width: 280px;
+	height: 300px;
+	
+
+}
+
+	
+
+}
+
+.fa-brands-fa-square-instagram {
+	color: #f78800;
+	display: inline-block;
+
+}
+
+.fa-brands-fa-linkedin {
+	color: #f78800;
+	display: inline-block;
+
+
+}
+.btn-bleu {
+	background-color:rgba(173,216,230,2.0);
+	color: black;
+	margin: 2px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.btn-bleu:hover {
+	background-color: rgba(255, 255, 255, 1.0);
+	color: black;
+}
+.liste-horizontale {
+		list-style: none;
+		padding:0px 20px ;
+		margin: 0 auto;
+
+}
+
